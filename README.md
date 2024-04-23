@@ -16,6 +16,9 @@ AGENTE COMEÇANDO
 8 | 94 | 0 | 6 | 0.3895593301573796 | 0.5918686695113263 
 9 | 91 | 0 | 9 | 0.33036202618053984 | 0.5007199407398598 
 
+<img src="graficos/agente_sempoda.png" alt="Descrição da imagem">
+
+
 ALEATÓRIO COMEÇANDO
 | Profundidade | Quantidade de vitórias | Quantidade de derrotas | Quantidade de empates | Tempo médio por jogada | Desvio padrão |
 |--------------|------------------------|------------------------|------------------------|------------------------|---------------|
@@ -28,6 +31,9 @@ ALEATÓRIO COMEÇANDO
 7 | 77 | 23 | 0 | 0.05134993959743775 | 0.07613337094950368 
 8 | 72 | 28 | 0 | 0.0397593691945076 | 0.05869348804650638 
 9 | 58 | 42 | 0 | 0.025500057665116947 | 0.03764801631182784 
+
+<img src="graficos/random_sempoda.png" alt="Descrição da imagem">
+
 
 
 # Implementação para conceito A+
@@ -44,6 +50,9 @@ AGENTE COMEÇANDO
 8 | 99 | 0 | 1 | 0.024277813294354605 | 0.0357520815110316 
 9 | 92 | 0 | 8 | 0.02161270974265845 | 0.031994410714279144 
 
+<img src="graficos/agente_compoda.png" alt="Descrição da imagem">
+
+
 
 
 ALEATÓRIO COMEÇANDO
@@ -58,3 +67,6 @@ ALEATÓRIO COMEÇANDO
 7  | 65 | 35| 0 | 0.004981837421655655 | 0.00721912702496133 
 8  | 70 | 30| 0 | 0.004779927385678081 | 0.0070881303177883674 
 9  | 58 | 42| 0 | 0.0016811035132482416 | 0.0021921825518312317 
+
+<img src="graficos/random_compoda.png" alt="Descrição da imagem">
+
